@@ -3,6 +3,15 @@ package balancingParantheses;
 
 import java.util.Scanner;
 
+
+/**
+ * Problem : Given an input of set of parantheses, output the valid and balanced parentheses.
+	Ex.	input:	((
+		output:	(())
+ * @author Karandikar
+ *
+ */
+ 
 public class Solution {
 
 	public static void main(String[] args) {

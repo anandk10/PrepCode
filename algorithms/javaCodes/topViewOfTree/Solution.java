@@ -1,5 +1,13 @@
 package topViewOfTree;
 
+
+/**
+ * Problem link: https://www.hackerrank.com/challenges/tree-top-view
+ * @author Karandikar
+ * [This solution accepts static input, here an array of integers and then constructs a binary search tree.
+ *	The method showTreeView() would remain the same for both binary search tree and binary tree.]
+ */
+ 
 public class Solution {
 
 

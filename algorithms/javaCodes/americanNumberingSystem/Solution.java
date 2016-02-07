@@ -3,6 +3,14 @@ package americanNumberingSystem;
 
 import java.util.Scanner;
 
+/**
+ * Problem : Given a input number, present it in the form of words. (according to the American Number system)
+	Ex. input 101
+		output one hundred one
+ * @author Karandikar
+ *
+ */
+ 
 public class Solution {
 	
 	
